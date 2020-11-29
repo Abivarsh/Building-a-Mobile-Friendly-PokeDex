@@ -12,3 +12,9 @@ Note - There are two different models I used. These are based upon following res
 Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton created a “large, deep convolutional neural network” that was used to win the 2012 ILSVRC (ImageNet Large-Scale Visual Recognition Challenge) called AlexNet.The network was made up of 5 conv layers, max-pooling layers, dropout layers, and 3 fully connected layers.
 
 <img src="https://sushscience.files.wordpress.com/2016/11/alexnet.jpg?w=900" alt="">
+
+Steps involved:
+1. Model-1 :Implement Alexnet in Keras
+
+There are a number of images from 10 classes of pokemons and we want to build and train AlexNet on the given data. 
+
