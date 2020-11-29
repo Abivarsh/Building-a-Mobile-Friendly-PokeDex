@@ -8,3 +8,7 @@ Note - There are two different models I used. These are based upon following res
 1) Alexnet 2012 :https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
 
 2) Mobilenets 2017 :https://arxiv.org/abs/1704.04861
+
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton created a “large, deep convolutional neural network” that was used to win the 2012 ILSVRC (ImageNet Large-Scale Visual Recognition Challenge) called AlexNet.The network was made up of 5 conv layers, max-pooling layers, dropout layers, and 3 fully connected layers.
+
+<img src="https://sushscience.files.wordpress.com/2016/11/alexnet.jpg?w=900" alt="">
