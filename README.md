@@ -18,4 +18,6 @@ Steps involved:
 
 There are a number of images from 10 classes of pokemons and we want to build and train AlexNet on the given data. 
 
-2. Model-2 : I used Use Transfer Learning/ Fine-Tuning to improve the accuracy that I got from Alexnet. We can use any pre-trained network like Resnet, Inception, Mobilenet from Keras and fine tune it using small learning rate. If you want to build an efficient memory friendly network - then MobileNet can be good choice as it uses light-weight convolutions, which reduce the number of parameters and model size is of few MB's which can easily fit inside Phone Memory!
+2. Model-2 :Using Transfer learning on Mobilenet
+
+I used Use Transfer Learning/ Fine-Tuning to improve the accuracy that I got from Alexnet. We can use any pre-trained network like Resnet, Inception, Mobilenet from Keras and fine tune it using small learning rate. If you want to build an efficient memory friendly network - then MobileNet can be good choice as it uses light-weight convolutions, which reduce the number of parameters and model size is of few MB's which can easily fit inside Phone Memory!
